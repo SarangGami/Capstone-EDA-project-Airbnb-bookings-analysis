@@ -1,6 +1,15 @@
 # **Capstone-EDA-project-1-Airbnb-bookings-analysis**
 
 
+![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
+
+
+
+## **The purpose of the analysis** 
+
+understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+
+
 
 ## **Introduction of Airbnb**
 
@@ -14,7 +23,9 @@
 
 ## **About the Dataset – AIRBNB BOOKINGS**
 
-*   This Airbnb dataset contains 49,000 observations from New York , with 16 columns of data.
+### Dataset Information
+* Number of instances: 48895
+* Number of attributes: 16
 
 *   The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
 
@@ -24,10 +35,33 @@
 
 
 
-## **The purpose of the analysis** 
+## **Different Python libraries used to complete this EDA:**
 
-understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+* Pandas
 
+* NumPy
+
+* Matplotlib.Pyplot
+
+* Seaborn
+
+
+
+## **Project Work flow**
+
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. explore Dataset
+
+3. Data Cleaning and manipulate
+
+4. Handling Outliers
+
+5. Data Visualization
+
+6. Conclusion
 
 
 
