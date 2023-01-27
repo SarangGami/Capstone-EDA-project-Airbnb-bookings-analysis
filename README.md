@@ -4,10 +4,14 @@
 ![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
 
 
-
-## **The purpose of the analysis** 
-
-understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+# Table Of Contents
+  
+  - [Introduction of Airbnb](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#introduction-of-airbnb)
+  - [About the Dataset](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#about-the-dataset--airbnb-bookings)
+  - [Python libraries used](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#different-python-libraries-used-to-complete-this-eda)
+  - [Project Work flow](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#project-work-flow)
+  - [purpose of the analysis](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#the-purpose-of-the-analysis)
+  - [Certificate](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#certificate)
 
 
 
@@ -63,6 +67,16 @@ understanding the factors that influence Airbnb prices in New York City, or iden
 
 6. Conclusion
 
+
+
+## **The purpose of the analysis** 
+
+understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+
+
+## **CERTIFICATE**
+
+![49605559346846](https://user-images.githubusercontent.com/121340232/215009117-c17602f3-9378-40e8-b183-45637d8c9b6a.png)
 
 
 
